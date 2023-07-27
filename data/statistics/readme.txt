@@ -1,0 +1,1 @@
+Los ficheros .csv de este directorio son ejemplos de forma donde se escriben las estadísticas que el sistema es capaz de reconocer. Para realizar estadísticas sobre datos propios se puede reutilizas únicamente el formato del fichero "truly_tagger.csv" y rellenar con el nombre de las imágenes de prueba que se deseen.

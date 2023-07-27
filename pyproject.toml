@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "peopledetection"
+version = "0.1.0"
+description = "Testing for variour models in distinct architectures to perform people detection"
+authors = ["Daniel Rodriguez Escabias <danielrodriguezescabias@gmail.com>"]
+license = "MIT, Non Commercial"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+opencv-python = "^4.7.0.72"
+ultralytics = "^8.0.93"
+pillow = "^9.5.0"
+numpy = "^1.24.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
