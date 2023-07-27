@@ -21,6 +21,6 @@ La detección de personas, caras y mascarillas, así como la medición de la pro
 2. Insertar las imágenes deseadas dentro de data/input
 3. Compilar el proyecto y ejecutar main.py
 4. Si es necesario hacer alguna configuración, se puede hacer desde el archivo main.py:
-	4.1. Cambiar el modelo
-	4.2. Cambiar el modo de ejecución entre streaming y batch
+	- Cambiar todos los modelos
+	- Cambiar todos los modos de ejecución: entre streaming y batch
 
