@@ -15,3 +15,12 @@ La detección de personas, caras y mascarillas, así como la medición de la pro
 - Detección de mascarillas: La detección de mascarillas en rostros es un componente crítico en el contexto de la salud pública y la prevención de enfermedades. Nuestro modelo especializado cumple esta función con elevada eficacia.
 
 - Cálculo de detección de proximidad: Mediante matemáticas y algoritmia podemos calcular la distancia entre personas en una imagen o video, facilitando el monitoreo del cumplimiento del distanciamiento social en diferentes entornos.
+
+## Pasos para su uso
+1. Descomprimir los modelos que se ubican dentro de /models dentro de esta carpeta.
+2. Insertar las imágenes deseadas dentro de data/input
+3. Compilar el proyecto y ejecutar main.py
+4. Si es necesario hacer alguna configuración, se puede hacer desde el archivo main.py:
+4.1. Cambiar el modelo
+4.2. Cambiar el modo de ejecución entre streaming y batch
+
